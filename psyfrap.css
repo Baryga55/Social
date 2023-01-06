@@ -1,0 +1,29 @@
+body{
+    font-family: "Courier New";
+    background-color: black;
+    color: rgb(200, 255, 200);
+}
+
+.h-1{
+    margin-top: 100px;
+    font-size: 35;
+    font-weight: bolder;
+}
+
+h3.adresas{
+    margin-top: 50px;
+}
+
+input.submit{
+    background-color: rgb(0, 78, 0);
+    color: rgb(200, 255, 200);
+    padding: 10px 24px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    cursor: pointer;
+    margin-top: 80px;
+}
+
+img{
+    margin-top: 5px;
+}
